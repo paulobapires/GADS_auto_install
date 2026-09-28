@@ -1,0 +1,4 @@
+# Scripts e configs rodam em Linux: sempre LF, mesmo com core.autocrlf=true no Windows.
+*.sh   text eol=lf
+*.conf text eol=lf
+*.md   text eol=lf
